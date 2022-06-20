@@ -1,2 +1,1 @@
-# hisab-kitab
-Developed to keep hisab-kitab for my father's finance customers
+Basic signup-login system developed using flask and python
